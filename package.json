@@ -1,0 +1,10 @@
+{
+  "name": "beside",
+  "version": "0.0.1",
+  "description": "beside you",
+  "main": "index.js",
+  "repository": "https://github.com/wkddngus5/beside.git",
+  "author": "wkddngus5@naver.com",
+  "license": "MIT",
+  "private": true
+}
